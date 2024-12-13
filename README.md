@@ -1,17 +1,17 @@
 ---
 
-# **Foundry - 一站式 DevOps 运维平台**
+# **OpsMatrix-Server - 一站式 DevOps 运维平台**
 
-![GitHub stars](https://img.shields.io/github/stars/OpsMatrix/foundry?style=social)
-![GitHub forks](https://img.shields.io/github/forks/OpsMatrix/foundry?style=social)
-![GitHub issues](https://img.shields.io/github/issues/OpsMatrix/foundry)
-![GitHub license](https://img.shields.io/github/license/OpsMatrix/foundry)
+![GitHub stars](https://img.shields.io/github/stars/OpsMatrix/OpsMatrix-Server?style=social)
+![GitHub forks](https://img.shields.io/github/forks/OpsMatrix/OpsMatrix-Server?style=social)
+![GitHub issues](https://img.shields.io/github/issues/OpsMatrix/OpsMatrix-Server)
+![GitHub license](https://img.shields.io/github/license/OpsMatrix/OpsMatrix-Server)
 
 ---
 
 ## **项目简介**
 
-**Foundry** 是一个开源的 DevOps 运维平台，旨在为开发者和运维团队提供一站式的工具和服务，涵盖 CI/CD、私有化部署、资产管理以及运维小工具等功能。通过 Foundry，用户可以轻松实现自动化运维、高效管理资源，并提升开发和部署的效率。
+**OpsMatrix-Server** 是一个开源的 DevOps 运维平台，旨在为开发者和运维团队提供一站式的工具和服务，涵盖 CI/CD、私有化部署、资产管理以及运维小工具等功能。通过 OpsMatrix-Server，用户可以轻松实现自动化运维、高效管理资源，并提升开发和部署的效率。
 
 ---
 
@@ -65,7 +65,7 @@
 
 ### **2. 克隆项目**
 ```bash
-git clone https://github.com/OpsMatrix/foundry.git
+git clone https://github.com/OpsMatrix/OpsMatrix-Server.git
 cd foundry
 ```
 
@@ -104,14 +104,14 @@ docker-compose up -d
 
 ## **社区与支持**
 
-- **问题反馈**：如果你在使用过程中遇到问题，请在 [Issues](https://github.com/OpsMatrix/foundry/issues) 中提交问题。
-- **讨论区**：加入我们的 [Discussions](https://github.com/OpsMatrix/foundry/discussions) 参与讨论。
+- **问题反馈**：如果你在使用过程中遇到问题，请在 [Issues](https://github.com/OpsMatrix/OpsMatrix-Server/issues) 中提交问题。
+- **讨论区**：加入我们的 [Discussions](https://github.com/OpsMatrix/OpsMatrix-Server/discussions) 参与讨论。
 
 ---
 
 ## **许可证**
 
-本项目采用 [Apache-2.0 许可证](https://img.shields.io/github/license/OpsMatrix/foundry) 进行开源。
+本项目采用 [Apache-2.0 许可证](https://img.shields.io/github/license/OpsMatrix/OpsMatrix-Server) 进行开源。
 
 ---
 
