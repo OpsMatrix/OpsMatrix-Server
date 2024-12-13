@@ -11,7 +11,7 @@
 
 ## **项目简介**
 
-**Foundry** 是一个开源的 DevOps 运维平台，旨在为开发者和运维团队提供一站式的工具和服务，涵盖 CI/CD、私有化部署、资产管理以及运维小工具等功能。通过 OpsFlow，用户可以轻松实现自动化运维、高效管理资源，并提升开发和部署的效率。
+**Foundry** 是一个开源的 DevOps 运维平台，旨在为开发者和运维团队提供一站式的工具和服务，涵盖 CI/CD、私有化部署、资产管理以及运维小工具等功能。通过 Foundry，用户可以轻松实现自动化运维、高效管理资源，并提升开发和部署的效率。
 
 ---
 
@@ -123,7 +123,7 @@ docker-compose up -d
 - [Jenkins](https://www.jenkins.io/)
 - [Prometheus](https://prometheus.io/)
 - [Grafana](https://grafana.com/)
-
+- [soybean-admin](https://github.com/soybeanjs/soybean-admin)
 ---
 
 ## **联系我们**
